@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Shay Xuejing Yao, Ph.D."
+  navbar:
+    background: white
+    foreground: black
+    pinned: true
+    right:
+      - text: "CV"
+        href: "https://docs.google.com/document/d/1BZzuLiID-zVxCK79bjL-kDtm2quBxi3j/preview"
+        target: _blank
+        rel: noopener
+      - text: "Research Insights"
+        href: ai-insights.qmd
+      - text: "Methodology Insights"
+        href: methodology-insights.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true

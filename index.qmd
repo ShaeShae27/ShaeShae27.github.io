@@ -1,0 +1,42 @@
+---
+pagetitle: Shay Xuejing Yao, Ph.D.
+page-layout: full
+---
+
+::: {.hero}
+
+::: {.hero-text}
+
+::: {.hero-title}
+Hello, I'm Shay.
+:::
+
+::: {.hero-intro}
+I'm a social scientist studying media psychology, responsible AI, human-AI interaction, and how people experience emerging technologies. I use advanced statistical methods to turn data into actionable insights.
+:::
+
+:::
+
+::: {.hero-image}
+
+![](images/headshot.jpg){fig-alt="Portrait of Shay Xuejing Yao"}
+
+:::
+
+:::
+
+::: {.insights-section}
+
+# Insights
+
+Selected writing on responsible AI, student success, methodology, user experience research, and applied social science.
+
+::: {.insights-list}
+
+[Call for Segmentation in College Students' AI Support](insights/ai-segmentation-college-students.qmd)
+
+[What VR Gets Wrong About Gender and Why It Matters for Platform Design](insights/vr-gender-platform-design.qmd)
+
+:::
+
+:::

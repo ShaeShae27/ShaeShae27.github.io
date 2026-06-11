@@ -1,0 +1,27 @@
+---
+pagetitle: Contact
+page-layout: full
+---
+
+::: {.contact-hero}
+
+::: {.contact-text}
+
+::: {.contact-title}
+Get in Touch
+:::
+
+Whether you have a question, an idea, or just want to say hello, feel free to reach out—I'm here to help.
+
+Email is the best way to reach me:\
+shay.y.reynolds@gmail.com
+
+:::
+
+::: {.contact-image}
+
+![](images/contact_image.png){fig-alt="City skyline at night with light trails"}
+
+:::
+
+:::

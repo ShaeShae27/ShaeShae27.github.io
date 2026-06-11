@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Insights",
+    "section": "",
+    "text": "Hello, I’m Shay.\n\n\nI’m a social scientist studying media psychology, responsible AI, human-AI interaction, and how people experience emerging technologies. I use advanced statistical methods to turn data into actionable insights.\n\n\n\n\n\n\n\nInsights\nSelected writing on responsible AI, student success, methodology, user experience research, and applied social science.\n\nCall for Segmentation in College Students’ AI Support\nWhat VR Gets Wrong About Gender and Why It Matters for Platform Design"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "AI Insights.html",
+    "href": "AI Insights.html",
+    "title": "AI Insights",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can add your CV here."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "AI Insights",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "Methodology Insights.html",
+    "href": "Methodology Insights.html",
+    "title": "Methodology Insights",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "insights/research-to-product-insights.html",
+    "href": "insights/research-to-product-insights.html",
+    "title": "From Research Questions to Actionable Product Insights",
+    "section": "",
+    "text": "This is a placeholder for the full post."
+  },
+  {
+    "objectID": "insights/social-science-ai-product-research.html",
+    "href": "insights/social-science-ai-product-research.html",
+    "title": "What Social Scientists Bring to AI Product Research",
+    "section": "",
+    "text": "This is a placeholder for the full post."
+  },
+  {
+    "objectID": "insights/student-ai-readiness.html",
+    "href": "insights/student-ai-readiness.html",
+    "title": "Why Student AI Support Needs Segmentation",
+    "section": "",
+    "text": "This is a placeholder for the full post."
+  },
+  {
+    "objectID": "ai-insights.html",
+    "href": "ai-insights.html",
+    "title": "Research Insights",
+    "section": "",
+    "text": "Research Insights\n\nCall for Segmentation in College Students’ AI Support\nWhat VR Gets Wrong About Gender and Why It Matters for Platform Design"
+  },
+  {
+    "objectID": "methodology-insights.html",
+    "href": "methodology-insights.html",
+    "title": "Methodology Insights",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can add your CV here."
+  },
+  {
+    "objectID": "index.html#insights",
+    "href": "index.html#insights",
+    "title": "Shay Xuejing Yao, Ph.D.",
+    "section": "Insights",
+    "text": "Insights\nSelected writing on responsible AI, student success, methodology, user experience research, and applied social science."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Shay Xuejing Yao, Ph.D.",
+    "section": "",
+    "text": "Get in Touch\n\nWhether you have a question, an idea, or just want to say hello, feel free to reach out—I’m here to help.\nEmail is the best way to reach me:\nshay.y.reynolds@gmail.com"
+  },
+  {
+    "objectID": "insights/vr-gender-platform-design.html",
+    "href": "insights/vr-gender-platform-design.html",
+    "title": "What VR Gets Wrong About Gender and Why It Matters for Platform Design",
+    "section": "",
+    "text": "What VR Gets Wrong About Gender and Why It Matters for Platform Design\n\nJune 10, 2026\n\nImmersive technologies change how people experience media. In VR, users are embodied, spatially present, and socially engaged in ways that go beyond traditional screen-based platforms.\nThat raises an important question for organizations building or governing immersive environments:\nWhat kinds of people are being represented, and relatedly, what kinds are missing?\nTo answer this, my colleagues and I conducted a systematic content analysis of popular VR games across major platforms, examining both gender representation and sexualization patterns.\nThe most striking finding was not sexualization, but absence.\nMale characters appeared roughly four times more often than female characters overall. This imbalance was especially pronounced in competitive VR games, where interaction intensity and social presence are highest.\nSexualization did occur - about 30% of female characters showed at least one sexualized feature - but it did not vary meaningfully by genre, ESRB rating, or game type. This suggests that common industry levers (ratings, content categories) are blunt tools for addressing representational risk.\nMore revealing was where sexualization clustered. Female characters were more likely to be sexualized when they were portrayed as physically capable, violent, or as victims, patterns that mirror long-standing gender tropes but may be amplified by immersion and embodiment.\nFor organizations, the implications are practical:\n\nRepresentation gaps can persist even when overtly sexualized content declines\nDesign decisions in competitive or high-engagement environments carry disproportionate social impact\nSurface-level compliance does not substitute for structural audits\n\nThis is the kind of work I do when advising teams on content evaluation, platform governance, and evidence-based design decisions under uncertainty.\nCheck my related publication here."
+  },
+  {
+    "objectID": "insights/ai-segmentation-college-students.html",
+    "href": "insights/ai-segmentation-college-students.html",
+    "title": "Call for Segmentation in College Students’ AI Support",
+    "section": "",
+    "text": "Call for Segmentation in College Students’ AI Support\n\nJune 10, 2026\n\nSome thoughts on student AI support. We are moving quickly to support student AI use at universities. But too often, we design AI support as if students are one homogeneous group.\nThey are not.\nSome students are already experimenting with AI in sophisticated ways. Some are curious but unsure where to begin. Some have access to paid tools, stable internet, and strong devices. Others do not. Some trust AI too much. Some do not trust it at all. Some see AI as a useful learning partner. Others worry about privacy, bias, accuracy, academic integrity, or whether using AI conflicts with their values.\nSo when we talk about AI and student success, I think we need to move beyond the question of:\n“How do we teach students to use AI?”\nA question we should ask instead is:\n“Which students need which kinds of AI support, and why?”\nThat is why I think colleges and universities need an AI readiness map. By AI readiness, I do not mean a simple measure of whether students have used, e.g., ChatGPT before. I mean a broader understanding of students’ preparedness to understand, evaluate, adopt, and use AI tools in ways that are effective for learning and responsible in practice.\nAnd importantly, this map should not be based only on demographic categories.\nDemographics matter, especially when we think about equity and access. But demographic information alone cannot tell us whether a student knows how to verify AI-generated information, whether they trust AI recommendations, whether they are worried about privacy, or whether they are using AI as a shortcut instead of a learning aid.\nSo, for a while, I’ve been thinking about the dimensions of student AI readiness. And here is my current view.\nFirst, access.\nBefore we ask students to use AI, we need to ask whether they actually have access to the tools, devices, internet connection, time, and learning environments needed to use AI well. A student who does not have reliable technology access may be excluded from AI-enhanced learning before the learning even begins.\nSecond, AI literacy.\nStudents need more than basic prompting skills. They need to know how AI systems can be useful, where they can fail, how to evaluate outputs, how to recognize bias or hallucination, how to cite or disclose AI use, and how to use AI to support learning rather than replace it. AI literacy is not just technical. It is critical, ethical, and practical.\nThird, trust.\nTrust is complicated. Some students may distrust AI because they do not understand how it works. Some may distrust it because they have legitimate concerns about surveillance, bias, or data privacy. Others may trust AI too quickly and accept its answers without verification. Both under-trust and over-trust can become student-success issues.\nFourth, resistance.\nResistance should not automatically be treated as a problem to fix. Sometimes resistance reflects lack of exposure. But sometimes it reflects thoughtful concerns about ethics, fairness, privacy, culture, religion, academic integrity, or the role of human judgment in learning. If we want responsible AI adoption, we need to understand resistance rather than dismiss it.\nFifth, self-efficacy.\nEven when students have access and interest, they may not feel confident using AI. They may worry that they are “not tech-savvy enough,” that they will use it incorrectly, or that they will violate course expectations. Confidence matters because students who feel capable are more likely to experiment, ask questions, and build skill over time.\nSixth, overreliance.\nAI support should not only focus on getting reluctant students to adopt AI. We also need to identify when students may be using AI in ways that weaken learning. For example, if a student turns to AI before thinking through a problem, skips the struggle needed for deep learning, or uses AI to complete work without understanding it, then AI becomes a student-success risk rather than a support.\nSeventh, support preference.\nDifferent students may need different kinds of help. Some may benefit from beginner workshops. Some may need examples embedded in courses. Some may prefer one-on-one human coaching. Some may need privacy guidance. Some may need advanced workflows. Some may need clear opt-out pathways. A single workshop or generic AI chatbot will not meet all of these needs equally well.\nThis is why targeted support matters.\nThe goal is not to label students permanently. The goal is to design better support.\nFor example, an “AI novice” may need low-stakes practice and basic literacy. An “access-limited” student may need technology support before training. A “privacy-concerned” student may need transparency and alternatives. An “advanced experimenter” may need guidance on responsible, discipline-specific use. A student at risk of overreliance may need learning-mode guardrails and human support.\nThis kind of segmentation would allow institutions to move from generic AI adoption to targeted, responsible, student-centered AI support.\nIf AI is becoming part of how students learn, write, search, plan, study, and prepare for careers, then AI readiness is no longer just a technology issue. It is a learning issue. It is an equity issue. It is a retention and belonging issue. It is a career-readiness issue."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nWhat you believe matters: Linking behavioural and cognitive factors to college students’ sleep quality and mental health\nLifetime video game exposure is associated with internalization of sexist STEM beliefs in women and men\nDoes sex sell? Two experiments testing exposure to sexualized female characters on purchase intention\nProblematic social media use in 3D? Relationships between social virtual reality (VR) use, social support, and mental health\nSupernatural Enemies Affect Outgroup Attitudes through Strength of Human Identity? A Conceptual Replication of Ellithorpe et al. (2018)\nUnderrepresented rather than misrepresented? A content analysis of female characters’ (non)sexualization in virtual reality (VR) games\nThe Partisan pandemic: Applying the reasoned action approach to understand the effects of politicizing a public health crisis\nI help you, you help me: Interracial reciprocity situation comedies influences racial attitudes\nTrust and coping beliefs contribute to racial disparities in Covid-19 vaccination\nTidying Up attitudes, Queer Eye style: Parasocial contact with Asian women and gay men\nCultivating adulthood prejudice toward Black Americans and low-income individuals through childhood social media use: A Retrospective approach\nProtecting positive view of the self: Women gamers’ strategic self-attribution of stereotypes\nLifetime TV use influences racial prejudice through cultivating implicit norms: Differed effects across three life stages\nDevelopment and validation of the female gamer stereotypes scale (FGSS)\nGamer girl vs. girl gamer: Stereotypical gamer traits increase men’s play intention\nCommon Ingroup Identity Model\nSelf-Categorization Theory"
+  }
+]

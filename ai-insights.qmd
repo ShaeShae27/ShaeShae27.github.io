@@ -1,0 +1,18 @@
+---
+title: "Research Insights"
+page-layout: full
+---
+
+::: {.insights-section}
+
+# Research Insights
+
+::: {.insights-list}
+
+[Call for Segmentation in College Students' AI Support](insights/ai-segmentation-college-students.qmd)
+
+[What VR Gets Wrong About Gender and Why It Matters for Platform Design](insights/vr-gender-platform-design.qmd)
+
+:::
+
+:::

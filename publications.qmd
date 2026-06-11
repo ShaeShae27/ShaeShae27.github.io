@@ -1,0 +1,48 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+::: {.insights-section}
+
+# Publications
+
+::: {.insights-list}
+
+[What you believe matters: Linking behavioural and cognitive factors to college students' sleep quality and mental health](publications/HEJ_SleepSurvey_postprint.docx)
+
+[Lifetime video game exposure is associated with internalization of sexist STEM beliefs in women and men](publications/lifetime%20sexism%20MP_postprint.docx)
+
+[Does sex sell? Two experiments testing exposure to sexualized female characters on purchase intention](publications/does%20sex%20sell_postprint.docx)
+
+[Problematic social media use in 3D? Relationships between social virtual reality (VR) use, social support, and mental health](publications/problematic%20social%20vr%20use.pdf)
+
+[Supernatural Enemies Affect Outgroup Attitudes through Strength of Human Identity? A Conceptual Replication of Ellithorpe et al. (2018)](publications/Supernatural%20replication.docx)
+
+[Underrepresented rather than misrepresented? A content analysis of female characters' (non)sexualization in virtual reality (VR) games](publications/Underrepresented%20rather%20than%20Misrepresented_postprint.pdf)
+
+[The Partisan pandemic: Applying the reasoned action approach to understand the effects of politicizing a public health crisis](publications/The%20partisan%20pandemic_post%20print.pdf)
+
+[I help you, you help me: Interracial reciprocity situation comedies influences racial attitudes](publications/sitcoms%20and%20reciprocity%20for%20Media%20Psych_postprint.pdf)
+
+[Trust and coping beliefs contribute to racial disparities in Covid-19 vaccination](publications/Trust%20and%20coping%20during%20COVID_postprint.pdf)
+
+[Tidying Up attitudes, Queer Eye style: Parasocial contact with Asian women and gay men](publications/postprint_tidying%20up%20attitude%20queer%20eye%20style.pdf)
+
+[Cultivating adulthood prejudice toward Black Americans and low-income individuals through childhood social media use: A Retrospective approach](publications/postprint_cultivating%20adulthood%20prejudice%20through%20childhood%20social%20media%20use_a%20retrospective%20approach.pdf)
+
+[Protecting positive view of the self: Women gamers' strategic self-attribution of stereotypes](publications/Protecting%20a%20Positive%20View%20of%20the%20Self_%20%20Strategic%20Self-Attributi_postprint.pdf)
+
+[Lifetime TV use influences racial prejudice through cultivating implicit norms: Differed effects across three life stages](publications/Lifetime%20Television%20Use%20Influences%20Racial%20Prejudice%20Through%20Cultivating%20Implicit%20Norms_postprint.pdf)
+
+[Development and validation of the female gamer stereotypes scale (FGSS)](publications/Female%20Gamer%20Stereotypes%20Scale_postprint.pdf)
+
+[Gamer girl vs. girl gamer: Stereotypical gamer traits increase men's play intention](publications/Gamer%20girl%20vs.%20girl%20gamer_postprint.pdf)
+
+[Common Ingroup Identity Model](publications/Common%20Ingroup%20Identity%20Model_postprint.pdf)
+
+[Self-Categorization Theory](publications/Self-Categorization%20Theory_postprint.pdf)
+
+:::
+
+:::

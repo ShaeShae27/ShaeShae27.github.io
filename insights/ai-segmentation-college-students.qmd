@@ -1,0 +1,72 @@
+---
+title: "Call for Segmentation in College Students' AI Support"
+date: "2026-06-10"
+---
+
+![](/images/1.png){.post-cover-image fig-alt="Illustration of an AI readiness map surrounded by diverse college students"}
+
+# Call for Segmentation in College Students' AI Support {.post-title}
+
+::: {.post-date}
+June 10, 2026
+:::
+
+Some thoughts on student AI support. We are moving quickly to support student AI use at universities. But too often, we design AI support as if students are one homogeneous group.
+
+They are not.
+
+Some students are already experimenting with AI in sophisticated ways. Some are curious but unsure where to begin. Some have access to paid tools, stable internet, and strong devices. Others do not. Some trust AI too much. Some do not trust it at all. Some see AI as a useful learning partner. Others worry about privacy, bias, accuracy, academic integrity, or whether using AI conflicts with their values.
+
+So when we talk about AI and student success, I think we need to move beyond the question of:
+
+"How do we teach students to use AI?"
+
+A question we should ask instead is:
+
+"Which students need which kinds of AI support, and why?"
+
+That is why I think colleges and universities need an AI readiness map. By AI readiness, I do not mean a simple measure of whether students have used, e.g., ChatGPT before. I mean a broader understanding of students' preparedness to understand, evaluate, adopt, and use AI tools in ways that are effective for learning and responsible in practice.
+
+And importantly, this map should not be based only on demographic categories.
+
+Demographics matter, especially when we think about equity and access. But demographic information alone cannot tell us whether a student knows how to verify AI-generated information, whether they trust AI recommendations, whether they are worried about privacy, or whether they are using AI as a shortcut instead of a learning aid.
+
+So, for a while, I've been thinking about the dimensions of student AI readiness. And here is my current view.
+
+**First, access.**
+
+Before we ask students to use AI, we need to ask whether they actually have access to the tools, devices, internet connection, time, and learning environments needed to use AI well. A student who does not have reliable technology access may be excluded from AI-enhanced learning before the learning even begins.
+
+**Second, AI literacy.**
+
+Students need more than basic prompting skills. They need to know how AI systems can be useful, where they can fail, how to evaluate outputs, how to recognize bias or hallucination, how to cite or disclose AI use, and how to use AI to support learning rather than replace it. AI literacy is not just technical. It is critical, ethical, and practical.
+
+**Third, trust.**
+
+Trust is complicated. Some students may distrust AI because they do not understand how it works. Some may distrust it because they have legitimate concerns about surveillance, bias, or data privacy. Others may trust AI too quickly and accept its answers without verification. Both under-trust and over-trust can become student-success issues.
+
+**Fourth, resistance.**
+
+Resistance should not automatically be treated as a problem to fix. Sometimes resistance reflects lack of exposure. But sometimes it reflects thoughtful concerns about ethics, fairness, privacy, culture, religion, academic integrity, or the role of human judgment in learning. If we want responsible AI adoption, we need to understand resistance rather than dismiss it.
+
+**Fifth, self-efficacy.**
+
+Even when students have access and interest, they may not feel confident using AI. They may worry that they are "not tech-savvy enough," that they will use it incorrectly, or that they will violate course expectations. Confidence matters because students who feel capable are more likely to experiment, ask questions, and build skill over time.
+
+**Sixth, overreliance.**
+
+AI support should not only focus on getting reluctant students to adopt AI. We also need to identify when students may be using AI in ways that weaken learning. For example, if a student turns to AI before thinking through a problem, skips the struggle needed for deep learning, or uses AI to complete work without understanding it, then AI becomes a student-success risk rather than a support.
+
+**Seventh, support preference.**
+
+Different students may need different kinds of help. Some may benefit from beginner workshops. Some may need examples embedded in courses. Some may prefer one-on-one human coaching. Some may need privacy guidance. Some may need advanced workflows. Some may need clear opt-out pathways. A single workshop or generic AI chatbot will not meet all of these needs equally well.
+
+This is why targeted support matters.
+
+The goal is **not** to label students permanently. The goal **is** to design better support.
+
+For example, an "AI novice" may need low-stakes practice and basic literacy. An "access-limited" student may need technology support before training. A "privacy-concerned" student may need transparency and alternatives. An "advanced experimenter" may need guidance on responsible, discipline-specific use. A student at risk of overreliance may need learning-mode guardrails and human support.
+
+This kind of segmentation would allow institutions to move from generic AI adoption to targeted, responsible, student-centered AI support.
+
+If AI is becoming part of how students learn, write, search, plan, study, and prepare for careers, then AI readiness is no longer just a technology issue. It is a learning issue. It is an equity issue. It is a retention and belonging issue. It is a career-readiness issue.

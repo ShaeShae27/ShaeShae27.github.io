@@ -1,0 +1,38 @@
+---
+title: "What VR Gets Wrong About Gender and Why It Matters for Platform Design"
+date: "2026-06-10"
+---
+
+![](/images/2.webp){.post-cover-image fig-alt="Illustration representing gender representation in VR platforms"}
+
+# What VR Gets Wrong About Gender and Why It Matters for Platform Design {.post-title}
+
+::: {.post-date}
+June 10, 2026
+:::
+
+Immersive technologies change how people experience media. In VR, users are embodied, spatially present, and socially engaged in ways that go beyond traditional screen-based platforms.
+
+That raises an important question for organizations building or governing immersive environments:
+
+What kinds of people are being represented, and relatedly, what kinds are missing?
+
+To answer this, my colleagues and I conducted a systematic content analysis of popular VR games across major platforms, examining both gender representation and sexualization patterns.
+
+The most striking finding was not sexualization, but absence.
+
+Male characters appeared roughly four times more often than female characters overall. This imbalance was especially pronounced in competitive VR games, where interaction intensity and social presence are highest.
+
+Sexualization did occur - about 30% of female characters showed at least one sexualized feature - but it did not vary meaningfully by genre, ESRB rating, or game type. This suggests that common industry levers (ratings, content categories) are blunt tools for addressing representational risk.
+
+More revealing was where sexualization clustered. Female characters were more likely to be sexualized when they were portrayed as physically capable, violent, or as victims, patterns that mirror long-standing gender tropes but may be amplified by immersion and embodiment.
+
+For organizations, the implications are practical:
+
+- Representation gaps can persist even when overtly sexualized content declines
+- Design decisions in competitive or high-engagement environments carry disproportionate social impact
+- Surface-level compliance does not substitute for structural audits
+
+This is the kind of work I do when advising teams on content evaluation, platform governance, and evidence-based design decisions under uncertainty.
+
+Check my related publication [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314863).
