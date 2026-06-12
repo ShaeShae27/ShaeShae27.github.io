@@ -9,6 +9,8 @@ page-layout: full
 
 ::: {.insights-list}
 
+[Barriers, Beliefs, and Bedtime: Message and Gender Effects on College Students' Sleep Intentions](publications/Barriers%20Beliefs%20and%20Bedtime_postprint.docx)
+
 [What you believe matters: Linking behavioural and cognitive factors to college students' sleep quality and mental health](publications/HEJ_SleepSurvey_postprint.docx)
 
 [Lifetime video game exposure is associated with internalization of sexist STEM beliefs in women and men](publications/lifetime%20sexism%20MP_postprint.docx)
