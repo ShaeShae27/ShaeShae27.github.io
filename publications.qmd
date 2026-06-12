@@ -9,17 +9,17 @@ page-layout: full
 
 ::: {.insights-list}
 
-[Barriers, Beliefs, and Bedtime: Message and Gender Effects on College Students' Sleep Intentions](publications/Barriers%20Beliefs%20and%20Bedtime_postprint.docx)
+[Barriers, Beliefs, and Bedtime: Message and Gender Effects on College Students' Sleep Intentions](publications/Barriers%20Beliefs%20and%20Bedtime_postprint.pdf)
 
-[What you believe matters: Linking behavioural and cognitive factors to college students' sleep quality and mental health](publications/HEJ_SleepSurvey_postprint.docx)
+[What you believe matters: Linking behavioural and cognitive factors to college students' sleep quality and mental health](publications/HEJ_SleepSurvey_postprint.pdf)
 
-[Lifetime video game exposure is associated with internalization of sexist STEM beliefs in women and men](publications/lifetime%20sexism%20MP_postprint.docx)
+[Lifetime video game exposure is associated with internalization of sexist STEM beliefs in women and men](publications/lifetime%20sexism%20MP_postprint.pdf)
 
-[Does sex sell? Two experiments testing exposure to sexualized female characters on purchase intention](publications/does%20sex%20sell_postprint.docx)
+[Does sex sell? Two experiments testing exposure to sexualized female characters on purchase intention](publications/does%20sex%20sell_postprint.pdf)
 
 [Problematic social media use in 3D? Relationships between social virtual reality (VR) use, social support, and mental health](publications/problematic%20social%20vr%20use.pdf)
 
-[Supernatural Enemies Affect Outgroup Attitudes through Strength of Human Identity? A Conceptual Replication of Ellithorpe et al. (2018)](publications/Supernatural%20replication.docx)
+[Supernatural Enemies Affect Outgroup Attitudes through Strength of Human Identity? A Conceptual Replication of Ellithorpe et al. (2018)](publications/Supernatural%20replication.pdf)
 
 [Underrepresented rather than misrepresented? A content analysis of female characters' (non)sexualization in virtual reality (VR) games](publications/Underrepresented%20rather%20than%20Misrepresented_postprint.pdf)
 
