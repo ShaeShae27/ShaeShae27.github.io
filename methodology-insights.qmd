@@ -1,5 +1,16 @@
 ---
 title: "Methodology Insights"
+page-layout: full
 ---
 
-Coming soon.
+::: {.insights-section}
+
+# Methodology Insights
+
+::: {.insights-list}
+
+[Using Live LLMs as Experimental Stimuli: A Literature Review on the "Clean Manipulation" Problem](insights/live-llms-experimental-stimuli.qmd)
+
+:::
+
+:::

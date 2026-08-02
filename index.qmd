@@ -37,6 +37,8 @@ Selected writing on responsible AI, student success, methodology, user experienc
 
 [What VR Gets Wrong About Gender and Why It Matters for Platform Design](insights/vr-gender-platform-design.qmd)
 
+[Using Live LLMs as Experimental Stimuli: A Literature Review on the "Clean Manipulation" Problem](insights/live-llms-experimental-stimuli.qmd)
+
 :::
 
 :::
